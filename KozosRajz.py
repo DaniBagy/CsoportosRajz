@@ -1,0 +1,1 @@
+#kozlekedesi lampa,alapja
