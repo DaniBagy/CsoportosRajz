@@ -25,7 +25,7 @@ while j< 2:
     turtle.color("black")
     turtle.forward(hossz)
     turtle.left(szog)
-    turtle.forward(hossz*4)
+    turtle.forward(hossz*5)
     turtle.left(szog)
     turtle.forward(hossz)
 
@@ -40,19 +40,19 @@ while i < 3:
     if i == 0:
         turtle.color("green")
         turtle.penup()
-        turtle.goto(0, 0)
+        turtle.goto(0, 55)
         turtle.pendown()
         turtle.setheading(szog)
     elif i == 1:
         turtle.color("yellow")
         turtle.penup()
-        turtle.goto(0, 125)
+        turtle.goto(0, 180)
         turtle.pendown()
         turtle.setheading(szog)
     else:
         turtle.color("red")
         turtle.penup()
-        turtle.goto(0, 250)
+        turtle.goto(0, 305)
         turtle.pendown()
         turtle.setheading(szog)
 
