@@ -2,6 +2,7 @@
 
 import turtle
 
+
 turtle.speed(0)
 turtle.width(5)
 hossz = 25
